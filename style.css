@@ -379,7 +379,7 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .python::before{
-    width: 90%;
+    width: 100%;
 }
 .skills-content .right .django::before{
     width: 60%;
